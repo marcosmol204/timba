@@ -3,7 +3,7 @@ import {
     LocalStorageRepository,
     TTimbaRepositories,
     TTimbaRepository,
-} from '../repositories';
+} from '../repositories/index';
 
 import { ITimba } from "./Itimba";
 
