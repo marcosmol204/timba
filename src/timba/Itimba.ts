@@ -1,5 +1,3 @@
-import { TTimbaRepository } from "../repositories";
-
 export interface ITimba {
 
     get(key: string): any;
